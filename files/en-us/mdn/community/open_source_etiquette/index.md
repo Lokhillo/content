@@ -131,6 +131,6 @@ If someone is waiting for you to do something for them, you should be extended t
 
 ## See also
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [How to Contribute to Open Sourbce](https://opensource.guide/how-to-contribute/)
 - [More general freeCodeCamp "How to contribute to open source" list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
